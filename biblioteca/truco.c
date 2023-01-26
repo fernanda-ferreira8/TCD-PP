@@ -1,0 +1,1 @@
+//função jogar (parametros){s}
