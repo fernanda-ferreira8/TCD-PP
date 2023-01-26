@@ -48,6 +48,7 @@ void imprimir (cartas *cartas_jogo);
 
 int main ()
 {
+    printf("mudança\n");
     int i, option;
     cartas cartas_jogo;
 
